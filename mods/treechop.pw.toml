@@ -3,8 +3,8 @@ filename = "TreeChop-1.20.1-forge-0.19.0-fixed.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "4c9d822a794cd390fc52d8f5dcc85a48c154c7c5d80a4c201cffabab9e5dfbaaae05e53ab7caaa4069926cd0b60f4bdcc2644233250e9b4770534d5bee11b330"
+hash-format = "sha256"
+hash = "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f"
 mode = "metadata:curseforge"
 
 [update]

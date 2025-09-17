@@ -3,8 +3,8 @@ filename = "createnuclear-1.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "2e2acf7ea0dadc7dc20e3530b7476e7950c225a6437159d701d2e154d16735aa43e41634a78bae5374d14555bb861550e67d7c09084e7c5c61a222f5b07908b8"
+hash-format = "sha256"
+hash = "bbefecef059c9b6ffa910707ac15c15fbd7b885f11ea356530598368e5132b12"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "letsdo-farm_and_charm-forge-1.0.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "d1fafcd0c9bff4ee64092d2617258d4712c0862036be0024db0c68674b1acba3db3848f0ed5b23a7254080489084f0a8cc38522ddd881f24b4e502f0d48185cf"
+hash-format = "sha256"
+hash = "89e237bc9f8e6fbaca8471c63f74e6ad62c53ced5a0b4f74615f555475f6f7bc"
 mode = "metadata:curseforge"
 
 [update]

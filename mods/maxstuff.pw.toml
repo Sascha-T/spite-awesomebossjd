@@ -3,8 +3,8 @@ filename = "maxstuff-1.8.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "c6dee3037fd62c679838c35a7e338d1c309de4f2cee77aafa5e38b72547e2a66a7fb5c98432e990cc493b7c5adb6c2826ae902d86a648395feee7744597b831e"
+hash-format = "sha256"
+hash = "37972ba55ed716cc894a293d2d580d85a8f75fc4d36f76711e241a10c8569c78"
 mode = "metadata:curseforge"
 
 [update]

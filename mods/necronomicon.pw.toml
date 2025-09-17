@@ -3,8 +3,8 @@ filename = "Necronomicon-Forge-1.6.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "d63d8d3e252197b7cabffc10ba6ec718d03b0038345d40dc5c9ce3014b9e542a35760ab0250f179b3de4183fe34784d645157b34bf54648c0ebbe24604ed5ba7"
+hash-format = "sha256"
+hash = "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3"
 mode = "metadata:curseforge"
 
 [update]

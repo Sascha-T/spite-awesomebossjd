@@ -3,8 +3,8 @@ filename = "taczjs-forge-1.3.6-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "02427d1396fc7eae8ebcd030739e90ab0e31aaefbaee5a4642e6ce0b3f1c51084066f74d88d988768741bd76e8b5dbcf3960250ca0f5ab901d48752531e953c9"
+hash-format = "sha256"
+hash = "e6fb5953f6fb68bf6156df6d77939df8b57cfff017c6f396fdea9b07e23acc37"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "JustEnoughGuns-0.13.2-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "e9b8c2143a10685dadc3382a9314ee9982c4050b7c2c234c0ac8be857fce64f88c7b397217f952377d25932de7a47d08a8d98671e80a181e248b182876483017"
+hash-format = "sha256"
+hash = "c1802f0bdc1526dcecf89d944606e0685f92aaf663e8837c73dae02890d5f6da"
 mode = "metadata:curseforge"
 
 [update]
