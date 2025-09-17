@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
