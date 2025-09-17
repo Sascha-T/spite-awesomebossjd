@@ -1,0 +1,13 @@
+name = "Perseus S2"
+author = "sans9536, minecraftbossdj"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "51219df0e3a3190581343ad28ee9aa79328a6a462195ff108c46d435fcf78875"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
