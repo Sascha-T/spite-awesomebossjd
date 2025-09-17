@@ -3,8 +3,8 @@ filename = "tconstruct_js-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7b8ef6c2dffb143970eb4645e313a3fd4a27c387"
+hash-format = "sha512"
+hash = "32e33e3d47ef5031a0037b82950603ce76377c9d2db30c6fdd8a4ced5557639d56af360c102f82b79b9c5b7a9891e4a1ac28bdb1734cf2d8ce367d648bd53d36"
 mode = "metadata:curseforge"
 
 [update]

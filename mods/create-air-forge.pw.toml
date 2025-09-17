@@ -3,8 +3,8 @@ filename = "createair-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2f3f33f66bdff4aa9d5450ab0171044d6ea8703c"
+hash-format = "sha512"
+hash = "512b011a360879da6d5dd892bbd6278345e321a443881f76d9cb71337a3428ae202c1931042f32c0b056ffd34845fd0bdc6cf2d431212a8929b31528f68cc827"
 mode = "metadata:curseforge"
 
 [update]

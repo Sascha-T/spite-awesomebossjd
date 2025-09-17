@@ -3,8 +3,8 @@ filename = "immersive_paintings-0.6.8+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3a464ae2cb3173c7a7b765b4b9e61591f71833c"
+hash-format = "sha512"
+hash = "2e0e73eadc2bdb5bfcac43945f87678799475d3c9be33c419abefe0ba59d3d97d8644d7270cdb661fdf4484af7190a8f7849b050d5f055e7b744eab89ada9f78"
 mode = "metadata:curseforge"
 
 [update]

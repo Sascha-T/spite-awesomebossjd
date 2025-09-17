@@ -3,8 +3,8 @@ filename = "enhancedai-2.7.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5998919004dc1612a282303f39b6dacf2d6a552d"
+hash-format = "sha512"
+hash = "035db868cad8843d4844b3f06a68df3f77173c5c6ed4d374350c3d1ed3d88724868db67783838ebc55098fa3a0cd6919485bd1543bd358849dabe4133ca157a8"
 mode = "metadata:curseforge"
 
 [update]

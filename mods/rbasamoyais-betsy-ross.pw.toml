@@ -3,8 +3,8 @@ filename = "betsyross-2.0.1+mc.1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5fccdeaeb05aeefd6761f3b12e329f811989d971"
+hash-format = "sha512"
+hash = "eda398217253734b7e92012d0c54e1dbc4d83d7cbcde3235201f00cea84a23b4392fe1e4ca00918aaa672d34270050e5339690dfb9f578a8bad251832abaa8c2"
 mode = "metadata:curseforge"
 
 [update]

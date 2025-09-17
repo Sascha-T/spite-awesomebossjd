@@ -3,8 +3,8 @@ filename = "endlessammo-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "adf1af1e99eace579497e14fcc773e6a4268dbd9"
+hash-format = "sha512"
+hash = "35a962cc766ae16f2e3ffd75b5ee91c3305fc3e3e72b2d43d7c47e686b63defe2a2e780a970b4c039b1a3f72dc448581c8c07b9a85306660dba3bb188a188ae7"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "legendarysurvivaloverhaul-1.20.1-2.3.20.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fd9f2bd92b2492b026eb1662cb9d93085ddba72a"
+hash-format = "sha512"
+hash = "7c986a044269ea505327bc1460c5a51b4f96fafdd6333053b98430c744ca6329454ac1e65f012aef3feaccf3190040e308f15fa99cf20d44408317dd4f9f9cac"
 mode = "metadata:curseforge"
 
 [update]

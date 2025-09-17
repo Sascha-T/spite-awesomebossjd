@@ -3,8 +3,8 @@ filename = "appliedenergistics2-forge-15.4.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "afe5d93caa77f5acb0806a4c8908f0c39d99ea7f"
+hash-format = "sha512"
+hash = "98cc889ab3c8b4172604161d8e2c65bb84833d73b6fa6d749b5fca245cd4fc18b191a75cfe07f0a648df2f1d5442aed5f1f5555883f6011aca81f470ca5d7d48"
 mode = "metadata:curseforge"
 
 [update]

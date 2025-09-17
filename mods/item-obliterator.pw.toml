@@ -3,8 +3,8 @@ filename = "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d8fa4e840a3d60f2172de0584d804d0bf7e6db19"
+hash-format = "sha512"
+hash = "4e207c6e0437dc14970d009453777111c8a1a8aed7953eefc32c057e964d1061ca71c38e6eb9b065f1b519da13d26a45f7e8bf199937fcc091beedccd6055754"
 mode = "metadata:curseforge"
 
 [update]

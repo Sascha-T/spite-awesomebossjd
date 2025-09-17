@@ -3,8 +3,8 @@ filename = "almostunified-forge-1.20.1-0.10.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9003f4d3baf3873387a9e2e9059bfe7a650714d3"
+hash-format = "sha512"
+hash = "186887efa62c34589f5925d38a4209dea5c81da61c8fe1d574224d7e4acaa37bd7f71733adcab3f0c7a455137c5fc18c71c7d843a4bfc692e5843d70886f5815"
 mode = "metadata:curseforge"
 
 [update]

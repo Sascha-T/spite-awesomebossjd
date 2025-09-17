@@ -3,8 +3,8 @@ filename = "caverns_and_chasms-1.20.1-2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6adb09c4b18e23990d200741b2723da6dd3a4ae"
+hash-format = "sha512"
+hash = "d7d9265f96ac34fcaf029491da63e66f614b84cde6e41d40732a714286fa1e5f748dfe8057baf2ce86247166dd1bd2f32349abcf0372ab6e87a6ea08d85077e0"
 mode = "metadata:curseforge"
 
 [update]

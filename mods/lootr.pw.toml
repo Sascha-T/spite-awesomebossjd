@@ -3,8 +3,8 @@ filename = "lootr-forge-1.20-0.7.35.92.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6e0c4289f06552c89bfe63b6d43a0609fecd6935"
+hash-format = "sha512"
+hash = "903ae0ba7077c86719399c32b4dba5726ce78c19f5eed8bb21acdbe1350cd3572fa2f1278a6b04d352b45ea12284bc97c24e77eab97500a44c0835e92288a0a2"
 mode = "metadata:curseforge"
 
 [update]
